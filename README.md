@@ -13,6 +13,9 @@ is same.
 In this lab we had to implement a matched filter (normalized crosscorrelation) to recognize letters in an image of text. After applying Matched Spatial Filter and normalizing it
 a binary image was outputted which showed white dots at places where the letter e was located in the original image. Original Image is on the left, center image is the MSF convoluted image and on the right is the binary image.
 
-<img align="left" src="https://user-images.githubusercontent.com/56795228/93153443-41279e00-f6cf-11ea-9e79-a1f486c8b47f.jpg" width="300">
-<p align="center><img src="https://user-images.githubusercontent.com/56795228/93153408-2f45fb00-f6cf-11ea-843b-d30ccfbc313b.jpg" width="300"></p>
-<img align="right" src="https://user-images.githubusercontent.com/56795228/93153414-3240eb80-f6cf-11ea-86e9-6c0ddf6903d1.jpg" width="300">
+Original Image:
+<img src="https://user-images.githubusercontent.com/56795228/93153443-41279e00-f6cf-11ea-9e79-a1f486c8b47f.jpg" width="300">
+MSF Image:
+<img src="https://user-images.githubusercontent.com/56795228/93153408-2f45fb00-f6cf-11ea-843b-d30ccfbc313b.jpg" width="300">
+Binary Image:
+<img src="https://user-images.githubusercontent.com/56795228/93153414-3240eb80-f6cf-11ea-86e9-6c0ddf6903d1.jpg" width="300">
