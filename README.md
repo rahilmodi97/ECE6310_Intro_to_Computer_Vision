@@ -11,7 +11,7 @@ is same.
 
 * Lab2 - Optical Character Recognition.
 In this lab we had to implement a matched filter (normalized crosscorrelation) to recognize letters in an image of text. After applying Matched Spatial Filter and normalizing it
-a binary image was outputted which showed white dots at places where the letter e was located in the original image. Original Image is on the left, center image is the MSF convoluted image and on the right is the binary image.
+a binary image was outputted which showed white dots at places where the letter e was located in the original image.
 
 Original Image:
 
