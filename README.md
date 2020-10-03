@@ -24,3 +24,21 @@ MSF Image:
 Binary Image:
 
 <img src="https://user-images.githubusercontent.com/56795228/93153414-3240eb80-f6cf-11ea-86e9-6c0ddf6903d1.jpg" width="300">
+
+* Lab3 - Letters
+In this lab we had to implement thinning, branchpoint and endpoint detection to recognize letters in an image of text. This lab was built upon Lab 2. The original image and the MSF image were the same from the previous lab. After looping through every ground truth point and copying 9x15 area around it, thresholding it to 128 later thinning that copied image and at last checking for branchpoints and endpoints in that image as letter e has 1 branchpoint and 1 endpoint and cross checking it with ground truth and generating True positive rate and False positive rate and generating ROC Curve and finding the most optimal threshold point with good balance between tru positive and false positive.
+
+Copied Image of e:
+
+<img src="https://user-images.githubusercontent.com/56795228/94979493-02784d00-04f1-11eb-9e61-009d9743030f.jpg" width="100">
+
+Thresholded image at 128:
+
+<img src="https://user-images.githubusercontent.com/56795228/94979491-01dfb680-04f1-11eb-862d-5505771c633c.jpg" width="100">
+
+Thinned Image:
+
+<img src="https://user-images.githubusercontent.com/56795228/94979494-02784d00-04f1-11eb-980d-4c43928dcf6b.jpg" width="100">
+
+
+
