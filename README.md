@@ -40,5 +40,17 @@ Thinned Image:
 
 <img src="https://user-images.githubusercontent.com/56795228/94979494-02784d00-04f1-11eb-980d-4c43928dcf6b.jpg" width="100">
 
+* Lab4 - Region Interaction with a GUI
+In this lab we had to implement region grow and also implement 2 predicates for distance of region grow and pixel intensity difference for the region grow which would decide till what pixel values the region grow should take place.
+
+Example 1 in GUI:
+
+<img src="https://user-images.githubusercontent.com/56795228/96209617-0a4adf00-0f3e-11eb-86c4-bc81df8f03fb.png" width="300">
+
+Example 2 in GUI:
+
+<img src="https://user-images.githubusercontent.com/56795228/96209627-120a8380-0f3e-11eb-9907-0ea0d9c9f4f1.png" width="300">
+
+
 
 
