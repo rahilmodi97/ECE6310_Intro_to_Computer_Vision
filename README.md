@@ -51,6 +51,45 @@ Example 2 in GUI:
 
 <img src="https://user-images.githubusercontent.com/56795228/96209627-120a8380-0f3e-11eb-9907-0ea0d9c9f4f1.png" width="300">
 
+* Lab 5 - Active Contour
+In this lab we had to active contouring algorithm on a given image of eagle sitting on the branch, the initial contour points were given and with the help of 2 internal energy
+and one external energy the initial contour had to converge properly to the border of the eagle.
+
+Image with initial contour points:
+
+<img src="https://user-images.githubusercontent.com/56795228/100312854-551a3680-2f81-11eb-99e6-1157f1c46288.jpg" width="300">
+
+Sobel filter output of the initial image:
+
+<img src="https://user-images.githubusercontent.com/56795228/100312861-59465400-2f81-11eb-8f4c-5d2e533130d1.jpg" width="300">
+
+Image with the final contour points:
+
+<img src="https://user-images.githubusercontent.com/56795228/100312865-5ba8ae00-2f81-11eb-9c6a-efbcf555aeb2.jpg" width="300">
+
+* Lab 6 - Camera Calibration and Tracking
+
+In this lab calibration of 6 cameras in a room is required and after the calibration of the cameras tracking of anything in the defined area ahould be possible.
+
+Room where tracking was to be performed:
+
+<img src="https://user-images.githubusercontent.com/56795228/100313414-9a8b3380-2f82-11eb-9202-81dd497f8d2b.png" width="400">
+
+Calibration image of one of the camera:
+
+<img src="https://user-images.githubusercontent.com/56795228/100313450-ad9e0380-2f82-11eb-9d33-8d3d1d300dc0.png" width="400">
+
+Occupancy map with camera tracking the objects in the defined area:
+
+<img src="https://user-images.githubusercontent.com/56795228/100313478-b68ed500-2f82-11eb-8c71-9ba403159650.png" width="400">
+
+* Lab 7 - Motion tracking 
+
+In this lab linear motion of a mobile was required to be detected by the gyroscope and accelerometer data recorded by the phone itself. The details of the lab and results can be seen in the report of the lab which is the Lab 7 folder.
+
+
+
+
 
 
 
