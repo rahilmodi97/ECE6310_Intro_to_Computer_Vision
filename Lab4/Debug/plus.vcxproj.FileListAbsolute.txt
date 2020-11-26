@@ -1,2 +1,0 @@
-D:\Computer_Vision\Lab4\plus-2017\Debug\plus.exe
-D:\Computer_Vision\Lab4\plus-2017\Debug\plus.pdb
