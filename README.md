@@ -92,9 +92,23 @@ Occupancy map with camera tracking the objects in the defined area:
 
 In this lab linear motion of a mobile was required to be detected by the gyroscope and accelerometer data recorded by the phone itself. The details of the lab and results can be seen in the report of the lab which is the Lab 7 folder.
 
+* Lab 8 - Surface Segmentation
 
+In this lab segementation of an image containing the chair is segmented with the help of the surface normal.
 
+Input Image:
 
+<img src="https://user-images.githubusercontent.com/56795228/102337462-81d9d080-3fb8-11eb-8d34-3b44fcd2d4c9.jpg" width="200">
 
+Thresholded Image:
 
+<img src="https://user-images.githubusercontent.com/56795228/102337457-80100d00-3fb8-11eb-97a0-76b9048a49d0.jpg" width="200">
+
+Segmented Image:
+
+<img src="https://user-images.githubusercontent.com/56795228/102337467-81d9d080-3fb8-11eb-888c-68651118415c.jpg" width="200">
+
+* Semester Project - Segmentation of food with Active Contouring and GUI
+
+In the semester project segmentation of different food items images is done with active contouring by drawing an initial contour around an item in the image by mouse and performing the active contouring by shrinking or ballooning. The left click of the mouse would draw the initial contour and perform the shrinking contour. The right click of the mouse will perform the ballooning contour on the item in the image.
 
