@@ -1,0 +1,43 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.c
+D:\Computer_Vision\Final Project\Best\Codes\main.c(174,18): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(175,18): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(176,18): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(177,18): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(178,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(179,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(180,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(181,19): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(371,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(378,49): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(385,24): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(441,23): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(487,22): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\Computer_Vision\Final Project\Best\Codes\main.c(117,15): warning C4101: 'r2': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(117,12): warning C4101: 'c': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(117,19): warning C4101: 'c2': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(120,16): warning C4101: 'var': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(120,11): warning C4101: 'avg': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(117,9): warning C4101: 'r': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(846,1): warning C4026: function declared with formal parameter list
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1014,49): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(965,7): warning C4101: 'hDC': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(951,8): warning C4101: 'fpt': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(963,10): warning C4101: 'wcolor': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(964,7): warning C4101: 'text': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1231,49): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1354,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1356,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1182,7): warning C4101: 'hDC': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1169,8): warning C4101: 'fpt': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1181,7): warning C4101: 'text': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1461,77): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1401,7): warning C4101: 'eweight': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1400,7): warning C4101: 'hDC': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1388,8): warning C4101: 'fpt': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1399,7): warning C4101: 'text': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1644,77): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1584,7): warning C4101: 'hDC': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1572,8): warning C4101: 'fpt': unreferenced local variable
+D:\Computer_Vision\Final Project\Best\Codes\main.c(1583,7): warning C4101: 'text': unreferenced local variable
+  plus.vcxproj -> D:\Computer_Vision\Final Project\Best\Codes\.\Debug\plus.exe
