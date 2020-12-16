@@ -1,0 +1,2 @@
+D:\Analysis of Tracking\Lab8\emerge\Debug\Emerge.exe
+D:\Analysis of Tracking\Lab8\emerge\Debug\Emerge.pdb
